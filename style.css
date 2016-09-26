@@ -1,0 +1,27 @@
+body { 
+   text-align: left;
+}
+
+header {
+   height: 100px;
+   background: #0C0;
+   width:100%;
+   z-index: 10;
+}
+
+input {
+    width:320px;
+    border: thin #999 solid;
+    margin-left: 30px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+form {
+     margin-left: 30px;
+     padding: 10px;
+}
+
+form input {
+     margin-left: 30px;
+}
