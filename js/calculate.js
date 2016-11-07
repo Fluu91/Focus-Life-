@@ -19,7 +19,7 @@ var CALC = {
 	
 	var fee = $('#fee').val();
 
-	var totalCost = (rate * sumassured / value) + parseInt (rate * sumassured / value  /100*3) + parseInt (fee) ;
+	var totalCost = rate * sumassured / value + rate * sumassured / value  / 100 * 3 + (fee * 1);
 	totalCost=totalCost.toFixed(2);
 
 	// Set total cost

@@ -1,0 +1,25 @@
+*:focus {
+	outline: none;
+}
+
+body {
+	font: 14px/21px "Segoe UI Light", Arial, sans-serif; 
+	float: left;
+	background: url(file:///C:/Users/Fluu/Desktop/Test/Phonegap/images/Layer5.png);
+}
+
+header  h1{
+	color: gray;
+	text-align: left;
+	padding-bottom: 21px;
+}
+
+footer {
+	color: gray;
+	position: center;
+	text-align: center;
+}
+
+.First_Name {
+	background-color: blue;
+}
